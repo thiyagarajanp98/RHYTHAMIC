@@ -1,0 +1,16 @@
+.image-with-title-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .image-with-title-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .image-with-title-img {
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+  }
+  
